@@ -1,0 +1,44 @@
+.container-fluid{   
+    padding: 4% 4% 0 4%;
+    height: 40%;
+}
+.list-group-item{
+    color: white;
+    background-color: #191919 ;
+    font-size: 1.3rem;
+    border: 2px solid white;
+}
+.cardcolor{
+    background-color: #032a63;
+    color: white;
+    
+}
+
+
+.imgheight{
+    width: 100%;
+}
+
+.author{
+    color: grey;
+    line-height: 3;
+}
+
+li{
+    color: white;
+}
+h5{
+    margin:auto;
+    color: white;
+}
+/* .card-img1
+{
+    width: 10%;
+    height: 40%;
+} */
+
+.list-group-item{
+    border: none;
+   
+}  
+
